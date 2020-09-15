@@ -1,0 +1,7 @@
+{
+    "name": "anticanary",
+    "version": "1.0.0",
+    "description": "Removes the canary subdomain form message links.",
+    "author": "Logge",
+    "license": "MIT"
+}
